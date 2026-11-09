@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "743583911942",
+    "project_id": "maaz-expense-tracker",
+    "storage_bucket": "maaz-expense-tracker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743583911942:android:7ef0112de12e6627baf387",
+        "android_client_info": {
+          "package_name": "com.example.expense_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlXtYmJTMkK0I4MIDDZ23xnW1xs-6pdWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
